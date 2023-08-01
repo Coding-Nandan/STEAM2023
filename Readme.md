@@ -17,8 +17,10 @@ Team members:Nandan,Bhuvan,Tanish,Aryan,Ishaan and Chittara
 2)Working of the letters
   2.1)Letter S
 ?
+
    2.2)Letter T
-Making a working robot that raises its hands and forms the letter T using an Arduino board and servo motors is the concept behind T.The robot's final appearance resembles the letter T.
+Making a working robot that raises its hands and forms the letter T using an Arduino board and servo motors is the concept behind T.The robot's final appearance resembles the letter T
+.
    2.3)Letter E
 ?
    2.4)Letter A 
